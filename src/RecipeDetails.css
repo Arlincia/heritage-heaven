@@ -1,0 +1,48 @@
+.recipe-details {
+    background-color: black;
+    opacity: .8;
+}
+
+.description {
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.recipe-picture {
+    width: 600px;
+    height: 400px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+.ingredients-container ul {
+    list-style: none;
+}
+
+.ingredients-container {
+    color: white;
+    font-weight: bolder;
+}
+
+.ingredients {
+    padding-left: 30px;
+}
+
+.steps-container {
+    color: white;
+    font-weight: bolder;
+    font-size: medium;
+
+}
+
+.steps-container ol {
+    list-style: none;
+}
+
+.steps {
+    padding-left: 30px;
+}
+
+.back-to-recipes {
+    color: gold;
+}
